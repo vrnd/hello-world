@@ -1,2 +1,4 @@
 # hello-world
-a sample rep
+Hello,
+
+Learning branches and other github features
